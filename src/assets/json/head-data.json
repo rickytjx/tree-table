@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "pid": "",
+        "name": "项目",
+        "field": "indName"
+    },
+    {
+        "id": 2,
+        "pid": "",
+        "name": "指标类型",
+        "field": "indexType"
+    },
+    {
+        "id": 3,
+        "pid": "",
+        "name": "计算指标",
+        "field": "calculationIndex"
+    },
+    {
+        "id": 4,
+        "pid": "",
+        "name": "合计",
+        "field": "hj001"
+    },
+    {
+        "id": 5,
+        "pid": 4,
+        "name": "总行本部",
+        "field": "zhbb001"
+    },
+    {
+        "id": 6,
+        "pid": 4,
+        "name": "分行合计",
+        "field": "fhhj002"
+    },
+    {
+        "id": 7,
+        "pid": 5,
+        "name": "信用卡",
+        "field": "xyk0001"
+    },
+    {
+        "id": 8,
+        "pid": 5,
+        "name": "总行其他",
+        "field": "zhqt0002"
+    },
+    {
+        "id": 9,
+        "pid": 6,
+        "name": "上海分行",
+        "field": "sh0001"
+    },
+    {
+        "id": 10,
+        "pid": 6,
+        "name": "杭州分行",
+        "field": "hz0001"
+    },
+    {
+        "id": 11,
+        "pid": 6,
+        "name": "宁波分行",
+        "field": "nb0001"
+    }
+]
